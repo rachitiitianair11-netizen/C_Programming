@@ -2,7 +2,8 @@
 #include <stdio.h>
 int main() {
     // Print name and age
-    printf("Name: Rajeev Ranjan\n");
-    printf("Age: 25\n");
+    printf("Name: Rachit Deshpande\n");
+    printf("Age: 18\n");
     return 0;
+
 }
